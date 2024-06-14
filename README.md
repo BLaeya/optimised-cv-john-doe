@@ -1,3 +1,6 @@
+#Optimized-CV-John-Doe
+A practice homework to build a single-page React application that displays a professional resume for the fictional character John Doe, styled with the Bootstrap CSS framework.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
